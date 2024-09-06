@@ -68,4 +68,4 @@ El diagrama incluye los siguientes componentes de AWS:
 Si deseas contribuir a este proyecto, por favor crea un fork del repositorio y envía un pull request con tus cambios.
 
 ## Licencia
-[Incluir información de licencia aquí]
+Transformacion Digital MATI Uniandes
